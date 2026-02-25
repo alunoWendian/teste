@@ -19,7 +19,7 @@ Footer Gray Text:   #cccccc
 body {
   font-family: "Open Sans", sans-serif;
   font-size: 20px;
-  color: #666666;
+  color: #ffffff;
   -webkit-font-smoothing: antialiased;
   padding: 80px;
   overflow-x: hidden;
@@ -399,3 +399,4 @@ textarea {
     bottom: -25px;
   }
 }
+
